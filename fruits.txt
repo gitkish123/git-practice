@@ -1,2 +1,3 @@
 This is list of my favorite fruits.
-apples, oranges, grapes.
+apples, oranges, grapes, strawberries.
+
