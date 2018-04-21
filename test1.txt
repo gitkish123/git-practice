@@ -4,7 +4,4 @@ My facorite car is honda.
 My favorite drink is pepsi.
 My favorite city is chicago.
 My favorite ice cream is chocolate.
-<<<<<<< HEAD
-=======
 My favorite town is guntur.
->>>>>>> adadf6100a2d0bf6cb1c9194291f9f3fd7af1dc7
