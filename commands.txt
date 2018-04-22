@@ -26,3 +26,39 @@ git push -u origin issue101
 create pull request in web account and compare changes.
 
 finally merge into main repository 
+
+Note: 
+
+1 - to remove upstream use the command 'git remove upstream <url>'
+
+2 - to check the status, use the command git status 
+
+3 - after modifications, we can use 'git add' and 'git commit -m 'add comment' '
+
+4 - to check which branch we are in 'git branch'
+
+5 - to check the upstream and origin we use 'git remote -v'
+
+6 - to change from one branch to another 'git checkout <branch name>'
+
+7 - to create a new branch and change to that branch 'git checkout -b <new branch name>'
+
+8 - to get latest code from upstream 'git pull upstream <branch name>'
+
+9 - to push latest code to origin 'git push origin <branch name>'
+
+10 - origin is the nick name of your account.
+
+11 - upstream is the nick name of central repository.
+
+12 - base implies upstream.
+
+13 - head implies origin.
+
+14 - to check the upstream branch, 'git branch -r | grep upstream'
+     if the output does not show master branch then use other branches. if it shows master then use master branch
+
+15 - To check the difference between commits use command 'git diff'
+
+
+
