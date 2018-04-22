@@ -1,0 +1,28 @@
+
+git clone git@github.com:Test2034/git-practice.git
+
+cd git-practice
+
+git remote -v
+
+git remote add upstream git@github.com:gitkish123/git-practice.git
+
+git branch -r | grep upstream
+
+git checkout develop 
+
+git pull upstream develop
+
+git push origin develop
+
+git checkout -b issue101
+
+vi <filename to make modifications> 
+
+git commit -a <comment to be added after commit> ---- this operation will do commit and add
+
+git push -u origin issue101
+
+create pull request in web account and compare changes.
+
+finally merge into main repository 
